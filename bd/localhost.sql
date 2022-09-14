@@ -40,6 +40,7 @@ CREATE TABLE `autor` (
 -- Volcado de datos para la tabla `autor`
 --
 
+
 INSERT INTO `autor` (`codigo_aut`, `nombre_aut`, `email_aut`, `genero_aut`) VALUES
 ('1', 'Oscar', 'oscar@gmail.com', 'M'),
 ('2', 'Javier', 'javier@gmail.com', 'M');
