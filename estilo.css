@@ -1,0 +1,4 @@
+table {border-collapse: collapse;}
+th {border: 3px solid; padding: 10px; background-color: pink; border-color: green;}
+tr, td {border: 1px solid; padding: 1px;}
+division {width: 500px; border: 1px solid;}
